@@ -1,3 +1,4 @@
+
 $( document ).ready(function() {
   // Desativa F5
 if ( window.history.replaceState ) {
